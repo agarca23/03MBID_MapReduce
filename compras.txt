@@ -1,0 +1,5 @@
+Alice;Camiseta;10;Falso
+Alice;Camiseta;10;Cierto
+Alice;Pantalones;20;Falso
+Bob;Camiseta;5;Falso
+Bob;Camiseta;7;Falso

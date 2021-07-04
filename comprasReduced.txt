@@ -1,0 +1,5 @@
+Alice;10.0
+Alice;-10.0
+Alice;20.0
+Bob;5.0
+Bob;7.0
