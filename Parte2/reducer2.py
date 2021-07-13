@@ -13,7 +13,7 @@ def formatArray(array):
         
 
 for claveValor in sys.stdin:
-    cited, citing = claveValor.split(",", 1)
+    cited, citing = claveValor.split(" ", 1)
     #convertimos conteo a float
     #El primer subproblema es la primera persona
     if subproblema == None:
